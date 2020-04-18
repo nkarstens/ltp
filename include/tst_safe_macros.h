@@ -12,6 +12,7 @@
 #include <sys/resource.h>
 #include <sys/stat.h>
 #include <sys/vfs.h>
+#include <sys/wait.h>
 #include <fcntl.h>
 #include <libgen.h>
 #include <signal.h>
